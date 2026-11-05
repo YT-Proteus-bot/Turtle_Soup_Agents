@@ -1,0 +1,2 @@
+# Turtle_Soup_Agents
+在agent的各个阶段，用二元提问把不确定性收敛到阈值
